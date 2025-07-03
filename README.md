@@ -1,5 +1,4 @@
 # GENAI_EXCHNAGE
-# 🌼 Multimodal Image + Text Generation using Imagen & Gemini
 
 This project is part of the [#GenAIExchange](https://cloud.google.com/training/generative-ai-exchange) program by Google Cloud. It demonstrates how to generate images from text using **Imagen**, and then analyze those images using **Gemini Flash** to generate a personalized message.
 
