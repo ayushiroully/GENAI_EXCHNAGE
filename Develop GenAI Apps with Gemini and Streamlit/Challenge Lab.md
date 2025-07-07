@@ -45,8 +45,8 @@ This project showcases my work from Course 3 of Google Cloud’s **#GenAIExchang
 #### 🛠️ Steps I followed:
 1. Cloned repo:  
    ```bash
-   git clone https://github.com/GoogleCloudPlatform/generative-ai.git
-```
+   git clone https://github.com/GoogleCloudPlatform/generative-ai.git```
+
 
 2. Navigated to: `generative-ai/gemini-streamlit-cloudrun`
 
