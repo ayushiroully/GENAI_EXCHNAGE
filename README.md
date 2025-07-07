@@ -1,4 +1,4 @@
-# 🌐 Google GenAI Exchange   
+# 🌐 Google GenAI Exchange Program
 *By Ayushi Roully· #GenAIExchange*
 
 This repository is part of the **#GenAIExchange program by Google Cloud**. It showcases hands-on labs using the **Gemini and Imagen APIs**, building real-world generative AI applications with multimodal capabilities — including image generation, prompt engineering, document QA, video analysis, and app development with Streamlit.
