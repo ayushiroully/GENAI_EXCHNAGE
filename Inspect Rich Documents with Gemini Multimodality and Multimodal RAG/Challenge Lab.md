@@ -9,7 +9,6 @@
 
 This challenge lab tested my ability to use **Google's Gemini models** for **multimodal reasoning** and **retrieval-augmented generation (RAG)**. The tasks combined text, image, and video processing with embedding-based retrieval to simulate real-world AI use cases.
 
-🧪 My role: *Marketing Campaign Coordinator* for a media company working with Google  
 🧠 My goal: Extract insights from Google brand documents, ads, videos, testimonials, and financials using **Gemini’s multimodal capabilities**.
 
 ---
