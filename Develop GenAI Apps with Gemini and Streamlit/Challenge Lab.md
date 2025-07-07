@@ -100,8 +100,8 @@ gcloud storage cp chef.py gs://<your-bucket-name>
 
 ### ✅ **Task 3: Run and Test the Application**
 
-* Deployed and tested the Streamlit app locally.
-* Verified prompt customization and radio input handling.
+1. Deployed and tested the Streamlit app locally.
+2. Verified prompt customization and radio input handling.
 
 ---
 
