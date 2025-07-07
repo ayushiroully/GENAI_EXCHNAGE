@@ -164,5 +164,5 @@ gcloud run deploy genai-app \
 
 ## ✍️ Author
 
-Created as part of the #GenAIExchange Challenge by **\[ayushiroully]**
+Created as part of the #GenAIExchange Challenge by **https://github.com/ayushiroully**
 
