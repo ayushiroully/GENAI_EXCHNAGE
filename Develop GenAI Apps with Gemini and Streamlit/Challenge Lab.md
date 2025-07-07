@@ -1,5 +1,4 @@
 
-````markdown
 # 💬 Gemini Prompt Playground with Streamlit + Docker  
 **Course 3: Develop GenAI Apps with Gemini and Streamlit — #GenAIExchange**
 
@@ -162,4 +161,4 @@ gcloud run deploy genai-app \
 ## ✍️ Author
 
 Created as part of the #GenAIExchange Challenge by **\[ayushiroully]**
-````
+
