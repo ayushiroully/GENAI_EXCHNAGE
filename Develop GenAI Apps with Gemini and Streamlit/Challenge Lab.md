@@ -20,7 +20,7 @@ This project showcases my work from Course 3 of Google Cloud’s **#GenAIExchang
 ## Recipe Suggestion
 ![blog - geminiapi streamlit app recipes1](https://github.com/user-attachments/assets/307ca892-7a81-4c27-8ecf-4b4e8ddcd62f)
 
-## Recipe Ingredients Oprions
+## Recipe Ingredients Options
 ![blog- options to select](https://github.com/user-attachments/assets/b85ff057-44f5-43d5-abf3-1b2ffbb7631b)
 ## Food Prefrences 
 ![dropdown](https://github.com/user-attachments/assets/851c8d63-686d-4c0d-bb00-b2306199e8df)
