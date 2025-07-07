@@ -113,6 +113,7 @@ A detailed multi-sentence response covering:
 
 ---
 ## UI for APP
+![genai image course 5](https://github.com/user-attachments/assets/e5303432-3302-431e-afa1-1c1ab0c30954)
 
 
 ## 🧠 Key Learnings
