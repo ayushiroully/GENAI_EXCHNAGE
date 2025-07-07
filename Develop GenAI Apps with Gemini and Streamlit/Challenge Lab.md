@@ -16,8 +16,13 @@ This project showcases my work from Course 3 of Google Cloud’s **#GenAIExchang
 ---
 
 ## 🖼️ Final Streamlit UI
+![blog - geminiapi streamlit app](https://github.com/user-attachments/assets/d36c58f5-4fbe-4427-b375-3bd044f642de)
 
-![Streamlit Screenshot](screenshots/final-ui.png)
+
+![blog - geminiapi streamlit app recipes1](https://github.com/user-attachments/assets/307ca892-7a81-4c27-8ecf-4b4e8ddcd62f)
+![blog- options to select](https://github.com/user-attachments/assets/b85ff057-44f5-43d5-abf3-1b2ffbb7631b)
+![dropdown](https://github.com/user-attachments/assets/851c8d63-686d-4c0d-bb00-b2306199e8df)
+![dropdown2](https://github.com/user-attachments/assets/f0b662fb-12b4-4353-b816-88b3de27da05)
 
 > *This UI was built with Streamlit, deployed via Docker & Cloud Run. It accepted prompt inputs and generated Gemini-based recipe suggestions.*
 
