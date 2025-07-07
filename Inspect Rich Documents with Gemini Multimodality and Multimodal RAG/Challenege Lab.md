@@ -118,33 +118,6 @@ To simulate RAG, the lab provided helper functions that worked on pre-processed 
 
 ---
 
-## 📁 Folder Structure
-
-```
-
-.
-├── course4\_multimodal\_rag.md        # This file
-├── sample\_docs/
-│   ├── google\_terms.pdf
-│   └── google\_10k\_part1.pdf
-├── notebook/
-│   └── multimodal\_lab\_notebook.ipynb
-└── screenshots/
-├── gemini-video-tags-output.png
-└── multimodal-query-response.png
-
-```
-
----
-
-## 📚 References
-
-- [Gemini Multimodal API Docs](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini)
-- [RAG with Vertex AI](https://cloud.google.com/vertex-ai/docs/generative-ai/embeddings/retrieval-augmented-generation-overview)
-- [GenAI SDK for Python](https://cloud.google.com/python/docs/reference/aiplatform/latest)
-
----
-
 ## 👨‍💻 Author
 
 Created as part of the **Google #GenAIExchange**  By https://github.com/ayushiroully
