@@ -1,23 +1,23 @@
 
-# 📄 Inspecting Rich Documents with Gemini: Multimodality + RAG  
+# Inspecting Rich Documents with Gemini: Multimodality + RAG  
 **Course 4 – GenAI Exchange: Google Cloud Challenge Lab**  
 *#GenAIExchange*
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This challenge lab tested my ability to use **Google's Gemini models** for **multimodal reasoning** and **retrieval-augmented generation (RAG)**. The tasks combined text, image, and video processing with embedding-based retrieval to simulate real-world AI use cases.
 
-🧠 My goal: Extract insights from Google brand documents, ads, videos, testimonials, and financials using **Gemini’s multimodal capabilities**.
+My goal: Extract insights from Google brand documents, ads, videos, testimonials, and financials using **Gemini’s multimodal capabilities**.
 
 ---
 
-## 🧪 Task 1: Generate Multimodal Insights with Gemini
+## Task 1: Generate Multimodal Insights with Gemini
 
 Gemini is a **multimodal model**, meaning it can understand and respond to a combination of **text, images, and video** in a single prompt.
 
-### ✅ Steps Completed:
+### Steps Completed:
 
 1. **Opened Notebook via Vertex AI Workbench**
    - Initialized GenAI SDK for Python using `PROJECT_ID` and `REGION`
@@ -53,11 +53,11 @@ Gemini is a **multimodal model**, meaning it can understand and respond to a com
 
 ---
 
-## 🔍 Task 2: Retrieval and Knowledge Integration with Multimodal RAG
+## Task 2: Retrieval and Knowledge Integration with Multimodal RAG
 
 In this task, I implemented **Multimodal RAG** — combining Gemini’s language abilities with **retrieved document snippets** and **image metadata** to answer grounded queries.
 
-### 🧾 Documents Used:
+### Documents Used:
 
 1. **Google Terms of Service (Text)**
 - Legal structure of user-Google relationship
@@ -68,17 +68,17 @@ In this task, I implemented **Multimodal RAG** — combining Gemini’s language
 
 ---
 
-## ⚙️ Tools and Helper Functions Used
+## Tools and Helper Functions Used
 
 To simulate RAG, the lab provided helper functions that worked on pre-processed document metadata:
 
-### 🧠 Text Metadata Functions:
+### Text Metadata Functions:
 - `text`, `chunk_text`: Original full text and chunked segments
 - `text_embedding_chunk`: Embedding for each chunk
 - `get_similar_text_from_query(query)`: Returns top-matching text chunks
 - `print_text_to_text_citation()`: Shows source & citation for retrieved texts
 
-### 🖼️ Image Metadata Functions:
+### Image Metadata Functions:
 - `img_desc`: Gemini-generated description of image
 - `mm_embedding_from_text_desc_and_img`: Joint embedding of image + text
 - `get_similar_image_from_query(img)`: Finds matching images
@@ -86,7 +86,7 @@ To simulate RAG, the lab provided helper functions that worked on pre-processed 
 
 ---
 
-## 💡 Final Multimodal RAG Flow
+##  Final Multimodal RAG Flow
 
 1. **Build Document Metadata**  
 → Parsed text and images, generated embeddings
@@ -108,7 +108,7 @@ To simulate RAG, the lab provided helper functions that worked on pre-processed 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Gemini can **seamlessly switch modalities** in a single interaction
 - **Embedding-based retrieval** is powerful for grounding LLM responses
@@ -117,7 +117,8 @@ To simulate RAG, the lab provided helper functions that worked on pre-processed 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Created as part of the **Google #GenAIExchange**  By https://github.com/ayushiroully
+
 
