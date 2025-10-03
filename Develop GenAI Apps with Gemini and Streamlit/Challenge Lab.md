@@ -1,20 +1,20 @@
 
-# 💬 Gemini Prompt Playground with Streamlit + Docker  
+# Gemini Prompt Playground with Streamlit + Docker  
 **Course 3: Develop GenAI Apps with Gemini and Streamlit — #GenAIExchange**
 
 This project showcases my work from Course 3 of Google Cloud’s **#GenAIExchange** program. While the focus was on using **Streamlit + Gemini**, this repo contains:
 
-- ✅ My **prompt experiments** using Gemini Pro  
-- ✅ **Final Streamlit UI screenshot**  
-- ✅ Docker setup for local deployment  
-- ✅ Cloud Run deployment commands  
-- ✅ Challenge-based Gemini prompts  
+- My **prompt experiments** using Gemini Pro  
+- **Final Streamlit UI screenshot**  
+- Docker setup for local deployment  
+- Cloud Run deployment commands  
+- Challenge-based Gemini prompts  
 
-> 🧠 I explored prompt behavior, function calling concepts, and deployed the app using Docker to simulate a production environment.
+> I explored prompt behavior, function calling concepts, and deployed the app using Docker to simulate a production environment.
 
 ---
 
-## 🖼️ Final Streamlit UI
+## Final Streamlit UI
 ![blog - geminiapi streamlit app](https://github.com/user-attachments/assets/d36c58f5-4fbe-4427-b375-3bd044f642de)
 
 ## Recipe Suggestion
@@ -31,9 +31,9 @@ This project showcases my work from Course 3 of Google Cloud’s **#GenAIExchang
 
 ---
 
-## 🧪 Challenge Tasks & My Implementation
+## Challenge Tasks & My Implementation
 
-### ✅ **Task 1: Use cURL to Test a Prompt with the API**
+### **Task 1: Use cURL to Test a Prompt with the API**
 
 - Tool: **Vertex AI > JupyterLab**
 - I executed a complex prompt using `curl` and Gemini API.
@@ -44,7 +44,7 @@ This project showcases my work from Course 3 of Google Cloud’s **#GenAIExchang
 
 ---
 
-### ✅ **Task 2: Build a Streamlit App (chef.py)**
+### **Task 2: Build a Streamlit App (chef.py)**
 
 #### 🛠️ Steps I followed:
 1. Cloned repo:  
@@ -98,14 +98,14 @@ gcloud storage cp chef.py gs://<your-bucket-name>
 
 ---
 
-### ✅ **Task 3: Run and Test the Application**
+### **Task 3: Run and Test the Application**
 
 1. Deployed and tested the Streamlit app locally.
 2. Verified prompt customization and radio input handling.
 
 ---
 
-### ✅ **Task 4: Modify Dockerfile and Push to Artifact Registry**
+### **Task 4: Modify Dockerfile and Push to Artifact Registry**
 
 1. Set environment variables as required in challenge.
 
@@ -127,7 +127,7 @@ gcr.io/$PROJECT_ID/genai-app
 
 ---
 
-### ✅ **Task 5: Deploy to Cloud Run and Test**
+### **Task 5: Deploy to Cloud Run and Test**
 
 Deployed the Dockerized app using:
 
@@ -140,11 +140,11 @@ gcloud run deploy genai-app \
   --set-env-vars PROJECT=$PROJECT
 ```
 
-🎯 Once deployed, tested app via the provided Cloud Run URL.
+Once deployed, tested app via the provided Cloud Run URL.
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 * Learned how to build prompt-driven UIs with Streamlit
 * Understood how function variables can be captured via UI elements (radio/select)
@@ -153,7 +153,7 @@ gcloud run deploy genai-app \
 
 ---
 
-## 📚 References
+## References
 
 * [Vertex AI with Gemini API](https://cloud.google.com/vertex-ai/docs/generative-ai)
 * [Google Generative AI SDK](https://cloud.google.com/python/docs/reference/aiplatform/latest)
@@ -162,7 +162,8 @@ gcloud run deploy genai-app \
 
 ---
 
-## ✍️ Author
+## Author
 
 Created as part of the #GenAIExchange Challenge by **https://github.com/ayushiroully**
+
 
