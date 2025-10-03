@@ -30,7 +30,7 @@ Each section corresponds to one of the five skill badge labs from the #GenAIExch
 
 ---
 ### 2.  **Build Real World AI Applications with Gemini and Imagen**  
-[Challenge Lab] (https://github.com/ayushiroully/GENAI_EXCHNAGE/blob/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen/Challenge%20Lab.md)  
+[Challenge Lab](https://github.com/ayushiroully/GENAI_EXCHNAGE/blob/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen/Challenge%20Lab.md)  
 Notebooks:
 - [`Build an AI Image Generator app using Imagen on Vertex AI.py`](https://github.com/ayushiroully/GENAI_EXCHNAGE/blob/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen/Build%20an%20AI%20Image%20Generator%20app%20using%20Imagen%20on%20Vertex%20AI.py)  
 - [`Build an AI Image Recognition app using Gemini on Vertex AI.py`](https://github.com/ayushiroully/GENAI_EXCHNAGE/blob/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen/Build%20an%20AI%20Image%20Recognition%20app%20using%20Gemini%20on%20Vertex%20AI.py)  
@@ -92,6 +92,7 @@ Notebooks:
 - Each `Challenge Lab.md` file reflects actual hands-on work from the GenAI Exchange challenge
 
 ---
+
 
 
 
